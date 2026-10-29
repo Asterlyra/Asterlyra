@@ -1,8 +1,6 @@
 # Hi, I'm Asterlyra 👋
 
-我是一名关注 **AI 应用、软件工程与游戏系统**的开发者，具有 Web 前后端开发基础。我喜欢追问技术是如何运作的、为什么这样设计，也喜欢把想法做成可以使用和探索的作品。
-
-I'm a developer interested in **AI applications, software engineering, and game systems**. I enjoy understanding how things work and turning ideas into things people can explore and use.
+我是星弦未央一名兴趣广泛的全栈开发者，具有全栈、Agent开发、服务器运维经验的开发者。我喜欢从系统全局视角理解世界、解决问题。
 
 ## 🔭 正在探索 · Currently Exploring
 
