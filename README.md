@@ -1,7 +1,7 @@
 # Hi, I'm Asterlyra 🌟
 # 我是星弦未央 🌟
 
-我是星弦未央，具有全栈、Agent开发、服务器运维经验的开发者。
+我是星弦未央，具有全栈、Agent开发、服务器运维经验的开发者，电子信息专业在读研究生。
 
 I'm Asterlyra, a developer with experience in full-stack development, AI Agent engineering, and server operations.
 
