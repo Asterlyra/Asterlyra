@@ -1,12 +1,17 @@
-# Hi, I'm Asterlyra 👋
+# Hi, I'm Asterlyra 🌟
+# 我是星弦未央 🌟
 
-我是星弦未央一名兴趣广泛的全栈开发者，具有全栈、Agent开发、服务器运维经验的开发者。我喜欢从系统全局视角理解世界、解决问题。
+我是星弦未央，具有全栈、Agent开发、服务器运维经验的开发者。
 
-## 🔭 正在探索 · Currently Exploring
+I'm Asterlyra, a developer with experience in full-stack development, AI Agent engineering, and server operations.
 
-- **AI Agent 与工具协作**：大语言模型应用、工具调用、工作流与可观测性。
-- **空间分析与知识表达**：用 GIS 工具处理实际空间问题，也尝试用交互教材解释复杂技术。
-- **软件与游戏设计**：从 Web 和移动应用到游戏机制，关注想法如何落地。
+## 💻 我的技术栈
+
+**🤖 AI：** 熟悉Agent架构、大模型网关、大模型的部署和推理架构；开发过一个从底层构建起的agent框架，包括记忆、工具、skill、agent循环等。
+
+**🧩 软件开发：** 熟悉java、SpringBoot、mysql、Redis、微服务等；熟悉Vue、Typescript、Node.js；开发过网页端、安卓App、微信小程序。
+
+**🐳 服务器运维：** 熟悉Docker，熟悉服务的搭建与排查。
 
 ## 🛠️ 开源项目 · Open Source Projects
 
@@ -24,6 +29,6 @@
 
 ## 🌱 代码之外 · Beyond Code
 
-我对自然科学、历史与社会、文学和语言学习也充满好奇。无论是研究一个软件系统，还是了解自然与社会的变化，我都喜欢从问题出发，寻找事物之间的联系。
+我的个人兴趣比较宽泛，从地理、天文到生物、物理，从心理学、社会学到乐理、插画鉴赏。总之我喜欢学习新的知识，我想要去了解这个世界，从系统的整体角度理解世界的规则。最近对游戏开发也有点兴趣，想要做一个属于自己的游戏。
 
-Beyond code, I'm curious about natural sciences, history, society, literature, and languages. I enjoy finding connections between ideas across different fields.
+My interests span a wide range of fields, from geography and astronomy to biology and physics, and from psychology and sociology to music theory and illustration appreciation. Above all, I love learning new things, exploring the world, and understanding the principles that govern it from a holistic, systems-oriented perspective.Recently, I've also developed an interest in game development, and I'd love to create a game of my own someday.
